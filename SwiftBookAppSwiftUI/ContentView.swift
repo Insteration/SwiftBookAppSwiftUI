@@ -17,6 +17,10 @@ struct ContentView : View {
                 Text("Hello")
                 Text("Hello")
                 Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
             }
         }
         .navigationBarTitle(Text("Friends"))
