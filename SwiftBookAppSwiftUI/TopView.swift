@@ -17,6 +17,13 @@ struct TopView : View {
                 Text("12.2k")
             }
             Text("Test text")
+            Text("Test text")
+            Text("Test text")
+            Text("Test text")
+            Text("Test text")
+            Text("Test text")
+            Text("Test text")
+
         }
     }
 }
