@@ -13,6 +13,7 @@
 		283C684422AD270A00E418E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 283C684322AD270A00E418E3 /* Assets.xcassets */; };
 		283C684722AD270A00E418E3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 283C684622AD270A00E418E3 /* Preview Assets.xcassets */; };
 		283C684A22AD270A00E418E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 283C684822AD270A00E418E3 /* LaunchScreen.storyboard */; };
+		283C685222AD28B300E418E3 /* TopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283C685122AD28B300E418E3 /* TopView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		283C684622AD270A00E418E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		283C684922AD270A00E418E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		283C684B22AD270A00E418E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		283C685122AD28B300E418E3 /* TopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				283C684322AD270A00E418E3 /* Assets.xcassets */,
 				283C684822AD270A00E418E3 /* LaunchScreen.storyboard */,
 				283C684B22AD270A00E418E3 /* Info.plist */,
+				283C685122AD28B300E418E3 /* TopView.swift */,
 				283C684522AD270A00E418E3 /* Preview Content */,
 			);
 			path = SwiftBookAppSwiftUI;
@@ -148,6 +151,7 @@
 			files = (
 				283C683E22AD270500E418E3 /* AppDelegate.swift in Sources */,
 				283C684022AD270500E418E3 /* SceneDelegate.swift in Sources */,
+				283C685222AD28B300E418E3 /* TopView.swift in Sources */,
 				283C684222AD270500E418E3 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
