@@ -15,6 +15,14 @@ struct TopView : View {
                 Text("info@cocoa.jumbo")
                 Image("like")
                 Text("12.2k")
+                Text("Test text")
+                Text("Test text")
+                Text("Test text")
+                Text("Test text")
+                Text("Test text")
+                Text("Test text")
+                Text("Test text")
+
             }
             Text("Test text")
             Text("Test text")
